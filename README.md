@@ -3,4 +3,4 @@
 
 ![YoonSoM's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoonSoM&show_icons=true&theme=tokyonight)
 
-<script src="https://gist.github.com/yoonsomi/56cd194b26360f9406a56e0637271103.js"></script>
+<script src="https://gist.github.com/YoonSoM/56cd194b26360f9406a56e0637271103.js"></script>
