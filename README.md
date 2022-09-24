@@ -7,7 +7,18 @@
 
 
 ![YoonSoM's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoonSoM&show_icons=true&theme=tokyonight)
-<br>
+<br><br>
+# PROJECT (TEAM)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white"><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
+
+|  NO. | PROJECT-LIST (CATEGORY) | PROJECT-THEME | DATE | TECHNIQUE | LINK |
+|------|------------------------|---------------|------|-----------|------|
+| 1-1. | MUSINSA<br>( NLP ) | Recommending Items | 2022.06<br>2022.07 | ML | [DATA LIST](https://) |
+| 1-2. | MUSINSA<br>( NLP ) | Predicting Star-Rate Using Review | 2022.06<br>2022.07 | DL | [DATA LIST](https://) |
+| 2-1. | CAR-DAMAGE DETECTION<br>( CV ) | Binary-Label | 2022.06<br>2022.07 | Semantic<br>Segmentation | [DATA LIST](https://) |
+| 2-2. | CAR-DAMAGE DETECTION<br>( CV ) | Multi-Label | 2022.06<br>2022.07 | Semantic<br>Segmentation | [DATA LIST](https://) |
+
+ <br><hr><br>
 * ### Things I code With
 
   * **Platforms & Languages** <br><br> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
