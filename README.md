@@ -5,7 +5,7 @@
 
 <p>Welcome to my page! </br> I'm Yoonsomi, Junior ML/DL Engineer from Korea, currently living in Seoul<br>
 
-[This is my Pyotfolio](https://github.com/YoonSoM/Portfolio)<br><br>
+[This is my Portfolio](https://github.com/YoonSoM/Portfolio)<br><br>
 
 
 ![YoonSoM's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoonSoM&show_icons=true&theme=tokyonight)
